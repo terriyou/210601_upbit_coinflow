@@ -3,7 +3,7 @@ ipgum = []
 
 fail = []
 
-with open("history.txt", encoding="utf8") as fp:
+with open("dwlog.txt", encoding="utf8") as fp:
     line = fp.readline()
     cnt = 1
     while line:
