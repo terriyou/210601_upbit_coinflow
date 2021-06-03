@@ -1,7 +1,7 @@
 
 btc_amount = []
 btc_pyongdan = []
-with open("1.txt", encoding="utf8") as fp:
+with open("210601_zdwlog.txt", encoding="utf8") as fp:
     line = fp.readline()
     cnt = 1
     while line:
